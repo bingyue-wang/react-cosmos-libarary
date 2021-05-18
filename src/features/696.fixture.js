@@ -1,4 +1,4 @@
 import React from 'react'
-import TrailBalancePeriod from '../stories/696/trailBalancePeriod'
+import Test from '../stories/696/696'
 
-export default <TrailBalancePeriod/>
+export default <Test/>

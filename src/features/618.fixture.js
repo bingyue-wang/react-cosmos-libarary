@@ -1,4 +1,4 @@
 import React from 'react'
-import SummaryDetailTables from '../stories/618/SummaryDetialTables'
+import Test from '../stories/618/618'
 
-export default <SummaryDetailTables data="Aloha" category="Alexa"/>
+export default <Test data="data" category="category"/>
