@@ -1,6 +1,6 @@
 import React from 'react'
 import {Form, Select} from 'antd'
-// import './style.css'
+import './style.scss'
 const { Option } = Select;
 
 const item = {
