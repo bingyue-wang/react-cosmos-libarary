@@ -111,8 +111,6 @@ function TbPeriod(props) {
     }
     return (
         <div className={'formitemtop'}>
-            <div>696</div>
-            <br/>
             <Form>
                 <Form.Item
                     name={tbPeriodForm.name}
