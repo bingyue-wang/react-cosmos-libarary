@@ -8,6 +8,7 @@
     "@testing-library/user-event": "^12.8.3",
     "antd": "^4.15.6",
     "babel-loader": "^8.1.0",
+    "moment": "^2.29.1",
     "react": "^17.0.2",
     "react-dnd": "^14.0.2",
     "react-dnd-html5-backend": "^14.0.0",
