@@ -1,6 +1,6 @@
 import React from 'react'
 import {useValue} from 'react-cosmos/fixture'
-import Test from '../stories/696'
+import Test from '../../stories/696'
 
 export default () => {
     const [tbPeriodType, setTbPeriodType] = useValue('tbPeriodType', {defaultValue: ''})
