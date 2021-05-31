@@ -2,8 +2,6 @@ import React, {useState} from 'react'
 import {assign, Machine} from 'xstate'
 // import {useMachine} from './hooks' // if want to use custom hook
 import {useMachine} from '@xstate/react'
-import Hello from './Hello/Hello'
-
 import './style.scss'
 
 function fakePayment() {
@@ -76,7 +74,6 @@ const App = () => {
         <div className="pill-container">
             <div className="state-pill">current state: {machine.value}</div>
         </div>
-        <Hello/>
         <div className="form-container">
             <div className="form-header">
                 <h2>State Machine Payment Form</h2>
